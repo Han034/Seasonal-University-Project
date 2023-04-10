@@ -10,3 +10,15 @@ C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
 C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
 C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ehlim\source\repos\Tasarım I\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gezeg\\source\\repos\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gezeg\\source\\repos\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gezeg\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\gezeg\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\gezeg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gezeg\\source\\repos\\BusinessLayer\\obj\\",
+        "projectPath": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\ehlim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gezeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ehlim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,18 +22,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\gezeg\\source\\repos\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\gezeg\\source\\repos\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\gezeg\\source\\repos\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\gezeg\\source\\repos\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -67,8 +62,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,25 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gezeg\\source\\repos\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gezeg\\source\\repos\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\gezeg\\source\\repos\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\gezeg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gezeg\\source\\repos\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\ehlim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gezeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ehlim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,15 +93,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\gezeg\\source\\repos\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\gezeg\\source\\repos\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -161,8 +150,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -171,25 +159,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gezeg\\source\\repos\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gezeg\\source\\repos\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\gezeg\\source\\repos\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\gezeg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gezeg\\source\\repos\\EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\ehlim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ehlim\\source\\repos\\Tasarım I\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gezeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ehlim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -197,7 +181,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -231,8 +214,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -241,7 +223,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
         }
       }
     }
